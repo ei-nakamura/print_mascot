@@ -4,4 +4,4 @@
 
 使用言語：python
 
-実行コマンド：python print_mascot.py
+実行コマンド：python printmascot.py
